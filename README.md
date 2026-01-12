@@ -4,6 +4,7 @@
 [![Version](https://img.shields.io/badge/version-1.2.2-green)](https://github.com/mikeyobrien/ralph-orchestrator/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen)](tests/)
+[![Mentioned in Awesome Claude Code](https://awesome.re/mentioned-badge.svg)](https://github.com/hesreallyhim/awesome-claude-code)
 
 A somewhat functional implementation of the Ralph Wiggum software engineering technique - putting AI agents in a loop until the task is done.
 
